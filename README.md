@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0098-validate-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
