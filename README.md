@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
