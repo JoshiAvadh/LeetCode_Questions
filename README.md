@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0189-rotate-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0876-middle-of-the-linked-list) |
