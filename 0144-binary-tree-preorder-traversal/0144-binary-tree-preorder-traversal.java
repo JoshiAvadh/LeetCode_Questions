@@ -23,7 +23,7 @@ class Solution {
         travel(ls, root.right);
     }
     public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> ls = new LinkedList<>();
+        List<Integer> ls = new ArrayList<>();
         travel(ls, root);
         return ls;
     }
