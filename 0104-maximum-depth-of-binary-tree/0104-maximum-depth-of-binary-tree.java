@@ -18,9 +18,9 @@ class Solution {
         if(root == null) {
             return 0;
         }
-        int ldepth = maxDepth(root.left);
-        int rdepth = maxDepth(root.right);
+        int ld = maxDepth(root.left);
+        int rd = maxDepth(root.right);
 
-        return Math.max(ldepth, rdepth) + 1;
+        return Math.max(ld,rd) + 1;
     }
 }
