@@ -28,9 +28,9 @@ class Solution {
             int mid = (start + end)/2;
 
             if(nums[mid] <= target) {
-                start = start +1;
+                start = mid +1;
             } else {
-                end = end - 1;
+                end = mid - 1;
             }
             if(nums[mid] == target) {
                 idx = mid;
