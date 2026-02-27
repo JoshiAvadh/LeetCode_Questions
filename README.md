@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
