@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0485-max-consecutive-ones) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
