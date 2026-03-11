@@ -14,7 +14,7 @@ class Solution {
 
         while(low < high) {
             int currWater = (high - low) * Math.min(height[low], height[high]);
-            maxWater = maxWater > currWater ? maxWater : currWater; 
+            maxWater = Math.max(currWater, maxWater);
             if(height[low] > height[high]) high--;
             else low++;
         }
