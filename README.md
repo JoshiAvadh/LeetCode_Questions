@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0141-linked-list-cycle) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0242-valid-anagram) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
