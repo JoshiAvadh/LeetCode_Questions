@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0875-koko-eating-bananas) |
 | [1901-find-a-peak-element-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
