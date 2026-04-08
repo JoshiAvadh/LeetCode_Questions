@@ -18,19 +18,28 @@ class Solution {
         if(root == null) {
             return null;
         }
-        if(root.left == null && root.right != null) {
-            root.left = root.right;
-            root.right = null;
-        }
-        else if(root.left != null && root.right == null) {
-            root.right = root.left;
-            root.left = null;
-        } else {
-            TreeNode temp;
-            temp = root.left;
-            root.left = root.right;
-            root.right = temp;
-        }
+        // if(root.left == null && root.right != null) {
+        //     root.left = root.right;
+        //     root.right = null;
+        // }
+        // else if(root.left != null && root.right == null) {
+        //     root.right = root.left;
+        //     root.left = null;
+        // } else {
+        //     TreeNode temp;
+        //     temp = root.left;
+        //     root.left = root.right;
+        //     root.right = temp;
+        // }
+        // invertTree(root.left);
+        // invertTree(root.right);
+
+        // return root;
+
+        TreeNode temp = root.left;
+        root.left = root.right;
+        root.right = temp;
+
         invertTree(root.left);
         invertTree(root.right);
 
