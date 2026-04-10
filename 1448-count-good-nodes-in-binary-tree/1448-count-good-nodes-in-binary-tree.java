@@ -21,7 +21,12 @@ class Solution {
         if(root == null) {
             return 0;
         }
-        int result = root.val >= maxVal ? 1 : 0;
+        int result;
+        if(root.val >= maxVal) {
+            result = 1;
+        } else {
+            result = 0;
+        }
         maxVal = Math.max(root.val, maxVal);
 
         return result + calcNodes(root.left, maxVal) + calcNodes(root.right, maxVal);
