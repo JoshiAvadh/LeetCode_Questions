@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
