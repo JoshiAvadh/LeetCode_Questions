@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/0994-rotting-oranges) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/JoshiAvadh/LeetCode_Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
