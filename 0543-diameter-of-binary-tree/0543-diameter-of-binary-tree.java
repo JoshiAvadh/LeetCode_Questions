@@ -17,17 +17,17 @@ class Solution {
     public int maxDiam = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
-        dfs(root);
+        check(root);
         return maxDiam;
     }
-    public int dfs(TreeNode root) {
+    public int check(TreeNode root) {
         if(root == null) return 0;
-        
-        int left = dfs(root.left);
-        int right = dfs(root.right);
 
-        maxDiam = Math.max(maxDiam, left + right);
+        int leftH = check(root.left);
+        int rightH = check(root.right);
 
-        return 1 + Math.max(left, right);
+        maxDiam = Math.max(maxDiam, leftH + rightH);
+
+        return 1 + Math.max(leftH, rightH);
     }
 }
