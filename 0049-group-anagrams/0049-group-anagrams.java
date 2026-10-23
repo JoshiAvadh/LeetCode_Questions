@@ -1,18 +1,19 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String, ArrayList<String>> map = new HashMap<>();
-
+        HashMap<String, List<String>> map = new HashMap<>();
         for(int i = 0; i < strs.length; i++) {
-            int[] freq = new int[27];
-            for(int j = 0; j < strs[i].length(); j++) {
-                char ch = strs[i].charAt(j);
-                freq[ch - 'a']++;
+            int[] k = new int[26];
+
+            for(Character c : strs[i].toCharArray()) {
+                k[c - 'a']++;
             }
-            if(!map.containsKey(Arrays.toString(freq))){
-                map.put(Arrays.toString(freq), new ArrayList());
-            } 
-            map.get(Arrays.toString(freq)).add(strs[i]);
-        }
+            String key = Arrays.toString(k);
+
+           //HASHMAP FNCS
+            map.putIfAbsent(key, new ArrayList<String>());
+            map.get(key).add(strs[i]);
+
+        } 
         return new ArrayList<>(map.values());
     }
 }
